@@ -7,17 +7,16 @@ import Contact from './pages/Contact';
 
 function App() {
   return (
-    <div className="App">
 		<Router>
+			<div>
 			<Header />
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="projectGallery/" element={<ProjectGallery />} />
           <Route path="contact/*" element={<Contact />} />
         </Routes>
-
+		  </div>
     </Router>
-    </div>
   );
 }
 

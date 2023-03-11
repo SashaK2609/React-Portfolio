@@ -1,8 +1,8 @@
 import React from "react";
-import Project from './components/Project';
+import Project from '../components/Project';
 
 function ProjectGallery() {
-	return <span>Home</span>;
+	return;
 }
 
 export default ProjectGallery;
