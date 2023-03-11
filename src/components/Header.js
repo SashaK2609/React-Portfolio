@@ -1,12 +1,14 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
+import "../styles/Header.css";
 
 const isActive = ({ isActive }) => isActive ? 'nav-link active' : 'nav-link';
 
 function Header() {
 	return (
-		<ul className="nav nav-tabs">
-      <li className="nav-item">
+		<nav className="navbar">
+		<ul className="nav">
+      <li className="nav-item NonOpaque">
         <NavLink
           to="/"
           end
@@ -20,7 +22,7 @@ function Header() {
           to="projectGallery/"
           className={ isActive }
         >
-          ProjectGallery
+          Project Gallery
         </NavLink>
       </li>
       <li className="nav-item">
@@ -33,6 +35,7 @@ function Header() {
         </NavLink>
       </li>
     </ul>
+	 </nav>
 	);
 }
 
