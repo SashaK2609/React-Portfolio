@@ -8,7 +8,7 @@ function Header() {
 	return (
 		<nav className="navbar">
 		<ul className="nav">
-      <li className="nav-item NonOpaque">
+      <li className="nav-item">
         <NavLink
           to="/"
           end
