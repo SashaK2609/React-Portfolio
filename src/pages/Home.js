@@ -8,7 +8,9 @@ function Home() {
 				<h1>Hello, <br /> I'm Oleksandra Zhyliuk</h1>
 				<p>Do it now, otherwise later is never!</p>
 			</section>
-			<img className="avatar" src="#" alt="no-avatar"/>
+			<section className="headshot">
+				<img className="avatar" src={require("../assets/avatar.jpg")} alt="jjlij"/>
+			</section>
 		</article>
 	)
 }
