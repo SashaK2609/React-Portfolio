@@ -1,44 +1,44 @@
 [
 	{
-	 "id": 1,
-	 "title": "Bootstrap Portfolio",
-	 "deployed_url": "https://sashak2609.github.io/Bootstrap-Portfolio/",
-	 "github_url": "https://github.com/SashaK2609/Bootstrap-Portfolio",
-	 "screenshot": ""
+		"id": 1,
+		"title": "Bootstrap Portfolio",
+		"deployed_url": "https://sashak2609.github.io/Bootstrap-Portfolio/",
+		"github_url": "https://github.com/SashaK2609/Bootstrap-Portfolio",
+		"screenshot": "../assets/bootstrap-portfolio.png"
 	},
 	{
 		"id": 2,
 		"title": "Code Quiz",
 		"deployed_url": "https://sashak2609.github.io/Code-Quiz/",
 		"github_url": "https://github.com/SashaK2609/Code-Quiz",
-		"screenshot": ""
-	  },
-	  {
+		"screenshot": "/assets/CQ3.png"
+	},
+	{
 		"id": 3,
 		"title": "Password Generator",
 		"deployed_url": "https://sashak2609.github.io/Password-Generator-Project/",
 		"github_url": "https://github.com/SashaK2609/Password-Generator-Project",
-		"screenshot": ""
-	  },
-	  {
+		"screenshot": "/assets/PG1.png"
+	},
+	{
 		"id": 4,
 		"title": "Code Refactor",
 		"deployed_url": "https://sashak2609.github.io/Challenge-1/",
 		"github_url": "https://github.com/SashaK2609/Challenge-1",
-		"screenshot": ""
-	  },
-	  {
+		"screenshot": "/assets/search-engine-optimization.jpg"
+	},
+	{
 		"id": 5,
 		"title": "Make the Days Count",
 		"deployed_url": "https://senseilein.github.io/make-the-days-count/",
 		"github_url": "https://github.com/senseilein/make-the-days-count",
-		"screenshot": ""
-	  },
-	  {
+		"screenshot": "/assets/todos-list.png"
+	},
+	{
 		"id": 6,
 		"title": "Work Day Scheduler",
 		"deployed_url": "https://sashak2609.github.io/Work-Day-Sceduler/",
 		"github_url": "https://github.com/SashaK2609/Work-Day-Sceduler",
-		"screenshot": "../Assets"
-	  }
+		"screenshot": "/assets/scheduler.png"
+	}
 ]

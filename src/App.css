@@ -4,6 +4,7 @@
 	text-decoration: none;
 	color: white;
 	list-style: none;
+	box-sizing: border-box;
 }
 
 .App {
@@ -16,8 +17,9 @@
 }
 
 body {
-	background-image: url(./assets/bg-image.jpg);
-	background-size: cover;
+	background: url(/public/assets/bg-image.jpg) no-repeat;
+	object-fit: contain;
 	height: 100vh;
 	background-position: left;
+	background-attachment: fixed;
 }

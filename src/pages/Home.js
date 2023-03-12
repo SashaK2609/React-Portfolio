@@ -9,7 +9,7 @@ function Home() {
 				<p>Do it now, otherwise later is never!</p>
 			</section>
 			<section className="headshot">
-				<img className="avatar" src={require("../assets/avatar.jpg")} alt="jjlij"/>
+				<img className="avatar" src="/assets/avatar.jpg" alt="jjlij"/>
 			</section>
 		</article>
 	)
