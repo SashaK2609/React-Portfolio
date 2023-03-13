@@ -4,6 +4,7 @@ import { AiOutlineGithub } from "react-icons/ai"
 import { ImLinkedin } from "react-icons/im"
 import { SiGmail } from "react-icons/si"
 import { AiFillFilePdf } from "react-icons/ai"
+import ContactForm from "../components/ContactForm";
 import "../styles/Contact.css"
 
 
@@ -11,31 +12,32 @@ function Contact() {
 	return(
 		<section className="contact">
 			<ul className="contacts">
-				<h1>My Contacts:</h1>
+				<h1>Contact me:</h1>
 				<li>
 					<Link className="contact-link" to="#"><ImLinkedin className="contact-icon">
 						</ImLinkedin>
-						My Linked In
+						LinkedIn
 					</Link>
 				</li>
 				<li>
 					<Link className="contact-link" to="#">
 						<AiOutlineGithub className="contact-icon"></AiOutlineGithub>
-						My Git Hub
+						Git Hub
 					</Link>
 				</li>
 				<li>
-					<Link className="contact-link" to="mailto:sDekaiper@gmail.com">
+					<Link className="contact-link" to="mailto:s.dekaiper@gmail.com">
 						<SiGmail className="contact-icon"></SiGmail>
-							My Email
+							Email
 					</Link>
 				</li>
 				<li>
 					<Link className="contact-link" to="../../public/CV-Sasha-Zhyliuk-short.pdf" download>
 							<AiFillFilePdf className="contact-icon"></AiFillFilePdf>
-							My CV	
+							CV	
 					</Link>
 				</li>
+				<ContactForm />
 			</ul>
 		</section>
 	)
