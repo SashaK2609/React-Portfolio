@@ -11,23 +11,22 @@ In this Portfolio I applied my knowledges of React basics and also used React Ro
 N/A
 
 ## Usage
-As it was mentioned before the Portfolio has 3 pages rendering from different components. Home page is a static page. 
+As it was mentioned before the Portfolio has 3 pages rendering from different components. Navbar is rendered throughout the application. Home page is a static page. 
 
-![alt text](../react-portfolio/public/assets/HomePage.png)
+![alt text](./public/assets/HomePage.png)
 
 The Project Gallery shows some of the finished projects as an image. But when actually hover on it you can see it's name, GitHub link and deployed link, where you can find out more about the specific project. 
 
-![alt text](../react-portfolio/public/assets/PGpage.png)
+![alt text](./public/assets/PGpage.png)
 
 Any contact info like GitHub, LinkedIn profile, email can be found on the Contact page. CV is avaliable to download. 
 
-![alt text](../react-portfolio/public/assets/ContactPage.png)
+![alt text](./public/assets/ContactPage.png)
 
 A contact form at the bottom of the page allows to contact me by entering your name, email and message or question you want to ask. 
 
-![alt text](../react-portfolio/public/assets/ContForm.png)
+![alt text](./public/assets/ContForm.png)
 
-Navbar is rendered throughout the application.
 
 ## Credits
 N/A
