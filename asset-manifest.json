@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.85516388.css",
-    "main.js": "/React-Portfolio/static/js/main.772d0e16.js",
+    "main.css": "/React-Portfolio/static/css/main.034a757e.css",
+    "main.js": "/React-Portfolio/static/js/main.c8d2a66d.js",
     "static/js/787.a2cb61a6.chunk.js": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/bg-image.jpg": "/React-Portfolio/static/media/bg-image.f2f3ff3721297fce6af2.jpg",
     "index.html": "/React-Portfolio/index.html",
-    "main.85516388.css.map": "/React-Portfolio/static/css/main.85516388.css.map",
-    "main.772d0e16.js.map": "/React-Portfolio/static/js/main.772d0e16.js.map",
+    "main.034a757e.css.map": "/React-Portfolio/static/css/main.034a757e.css.map",
+    "main.c8d2a66d.js.map": "/React-Portfolio/static/js/main.c8d2a66d.js.map",
     "787.a2cb61a6.chunk.js.map": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.85516388.css",
-    "static/js/main.772d0e16.js"
+    "static/css/main.034a757e.css",
+    "static/js/main.c8d2a66d.js"
   ]
 }
