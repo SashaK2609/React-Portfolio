@@ -1,11 +1,11 @@
 import React from "react";
-import { Link } from "react-router-dom"
-import { AiOutlineGithub } from "react-icons/ai"
-import { ImLinkedin } from "react-icons/im"
-import { SiGmail } from "react-icons/si"
-import { AiFillFilePdf } from "react-icons/ai"
+import { Link } from "react-router-dom";
+import { AiOutlineGithub } from "react-icons/ai";
+import { ImLinkedin } from "react-icons/im";
+import { SiGmail } from "react-icons/si";
+import { AiFillFilePdf } from "react-icons/ai";
 import ContactForm from "../components/ContactForm";
-import "../styles/Contact.css"
+import "../styles/Contact.css";
 
 
 function Contact() {
@@ -32,7 +32,7 @@ function Contact() {
 					</Link>
 				</li>
 				<li>
-					<Link className="contact-link" to="../../public/CV-Sasha-Zhyliuk-short.pdf" download>
+					<Link className="contact-link" to="/CV-Sasha-Zhyliuk-short.pdf" target="_blank" download>
 							<AiFillFilePdf className="contact-icon"></AiFillFilePdf>
 							CV	
 					</Link>

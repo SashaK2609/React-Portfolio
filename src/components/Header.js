@@ -8,34 +8,34 @@ function Header() {
 	return (
 		<nav className="navbar">
 		<ul className="nav">
-      <li className="nav-item">
-        <NavLink
-          to="/"
-          end
-          className={ isActive }
-        >
-          Home
-        </NavLink>
-      </li>
-      <li className="nav-item">
-        <NavLink
-          to="projectGallery/"
-          className={ isActive }
-        >
-          Project Gallery
-        </NavLink>
-      </li>
-      <li className="nav-item">
-        <NavLink
-          to="contact"
-          end
-          className={ isActive }
-        >
-          Contact
-        </NavLink>
-      </li>
-    </ul>
-	 </nav>
+			<li className="nav-item">
+			<NavLink
+				to="/"
+				end
+				className={ isActive }
+			>
+				Home
+			</NavLink>
+			</li>
+			<li className="nav-item">
+			<NavLink
+				to="projectGallery/"
+				className={ isActive }
+			>
+				Project Gallery
+			</NavLink>
+			</li>
+			<li className="nav-item">
+			<NavLink
+				to="contact"
+				end
+				className={ isActive }
+			>
+				Contact
+			</NavLink>
+			</li>
+		</ul>
+	</nav>
 	);
 }
 

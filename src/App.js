@@ -7,14 +7,14 @@ import Contact from './pages/Contact';
 
 function App() {
   return (
-		<Router>
+		<Router basename='/react-portfolio'>
 			<div>
 			<Header />
-        <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="projectGallery/" element={<ProjectGallery />} />
-          <Route path="contact/*" element={<Contact />} />
-        </Routes>
+			<Routes>
+				<Route exact path="/" element={<Home />} />
+				<Route path="/projectGallery" element={<ProjectGallery />} />
+				<Route path="/contact/*" element={<Contact />} />
+			</Routes>
 		  </div>
     </Router>
   );

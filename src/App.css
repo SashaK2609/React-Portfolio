@@ -17,8 +17,9 @@
 }
 
 body {
-	background: url(/public/assets/bg-image.jpg) no-repeat;
+	background: url(../public/images/bg-image.jpg) no-repeat;
 	object-fit: contain;
+	background-size: cover;
 	height: 100vh;
 	background-position: left;
 	background-attachment: fixed;
