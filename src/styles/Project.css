@@ -36,9 +36,6 @@
 	background-color: rgba(0, 0, 0, .6);
 	top: 0px;
 	transition: 0.5s;
-	-webkit-box-shadow: 0px 11px 43px 0px rgba(3,248,252,0.52);
-	-moz-box-shadow: 0px 11px 43px 0px rgba(3,248,252,0.52);
-	box-shadow: 0px 11px 43px 0px rgba(3,248,252,0.52);
 }
 
 .content li {

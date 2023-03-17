@@ -32,7 +32,7 @@ function Contact() {
 					</Link>
 				</li>
 				<li>
-					<Link className="contact-link" to="/cv-Sasha-zhyliuk-short.pdf" target="_blank" download>
+					<Link className="contact-link" to="https://drive.google.com/file/d/1eAABSPdo6-4PZLDrIBzNBdo68L_z9guM/view?usp=sharing" target="_blank" download>
 							<AiFillFilePdf className="contact-icon"></AiFillFilePdf>
 							CV	
 					</Link>

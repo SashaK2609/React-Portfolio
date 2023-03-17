@@ -4,14 +4,10 @@ import "../styles/Project.css"
 
 
 function Project(props) {
-	let img = props.screenshot;
-	console.log(img)
-	
-
 	return (
 		<div className="projectItem">
 			<div className="project-wrapper">
-				<img className="project-img image-cover" src={img} alt=""/>
+				<img className="project-img image-cover" src={process.env.PUBLIC_URL + props.screenshot} alt=""/>
 			</div>
       		<ul className="content">
       			<li>
