@@ -13,11 +13,11 @@ N/A
 ## Usage
 As it was mentioned before the Portfolio has 3 pages rendering from different components. Navbar is rendered throughout the application. Home page is a static page. 
 
-![alt text](./public/images/HomePage.png)
+![alt text](./public/images/home-page.png)
 
 The Project Gallery shows some of the finished projects as an image. But when actually hover on it you can see it's name, GitHub link and deployed link, where you can find out more about the specific project. 
 
-![alt text](./public/images/PGpage.png)
+![alt text](./public/images/pg-page.png)
 
 Any contact info like GitHub, LinkedIn profile, email can be found on the Contact page. CV is avaliable to download. 
 
