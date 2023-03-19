@@ -21,11 +21,11 @@ The Project Gallery shows some of the finished projects as an image. But when ac
 
 Any contact info like GitHub, LinkedIn profile, email can be found on the Contact page. CV is avaliable to download. 
 
-![alt text](./public/images/contactPage.png)
+![alt text](./public/assets/ContactPage.png)
 
 A contact form at the bottom of the page allows to contact me by entering your name, email and message or question you want to ask. 
 
-![alt text](./public/images/contForm.png)
+![alt text](./public/assets/ContForm.png)
 
 
 ## Credits
